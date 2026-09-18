@@ -1,1 +1,3 @@
-"# Gummi" 
+BACOLOD, ADRIAN PATRICK A.
+
+GAMEDEV SO1 Prototyping 1: Go Go Gummi!
